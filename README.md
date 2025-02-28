@@ -1,6 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=jeevananthamp16&color=blue)
 
-# 👋 Hi, I'm Jeevanantham P| **DevOps Engineer**  
+# 👋 Hi, I'm Jeevanantham P | **DevOps Engineer**  
 
 🚀 **Bridging DevOps  with Cloud, Automation & Observability**  
 
